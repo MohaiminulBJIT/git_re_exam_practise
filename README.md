@@ -1,4 +1,7 @@
 
+I want to change this file as markup language
+
+
 ![Logo](https://png.pngtree.com/png-vector/20190412/ourmid/pngtree-mind-pixel-logo-designs-png-image_934202.jpg)
 
 # Local Dining Guide
@@ -82,3 +85,4 @@ Thank you to the following contributors who have helped to improve this project:
 |Mir Mohaiminul Islam|mohaiminul.islam@bjitacademy.com|01554683700|
 |Rana Tabassum|rana.tabassum@bjitacademy.com|01234567897|
 |Takia Maliha|takia.maliha@bjitacademy.com|01234567897|
+>>>>>>> 28902ba04cf431cd9404d99e8e6fddccb8402e28
